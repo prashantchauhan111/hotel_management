@@ -1,0 +1,53 @@
+/* Apply styles for the form */
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Style for the input labels */
+  label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the inputs */
+  input[type='email'],
+  input[type='text'],
+  input[type='datetime-local'] {
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  /* Style for the calculated price section */
+  strong {
+    margin-top: 10px;
+    display: block;
+    font-weight: bold;
+  }
+  
+  /* Style for the submit button */
+  button {
+    margin-top: 15px;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #1E90FF;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #005f99;
+  }
+  
