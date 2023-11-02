@@ -1,3 +1,17 @@
+# Screenshots
+
+#view page
+![view page](https://github.com/prashantchauhan111/hotel_management/assets/83868325/93f77dde-7814-46ea-9eb6-45e9f61661fa)
+
+#filter room
+![filtered room](https://github.com/prashantchauhan111/hotel_management/assets/83868325/204c52c3-2e1b-4d47-abcd-35e082d5f430)
+
+#edit room
+![edit room](https://github.com/prashantchauhan111/hotel_management/assets/83868325/0dd08f06-139d-4669-9b53-845867769adf)
+
+#book room
+![book room](https://github.com/prashantchauhan111/hotel_management/assets/83868325/790139b4-c9d1-4f3f-9c18-b9074aecbe26)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
